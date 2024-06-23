@@ -1,2 +1,2 @@
 # Comunicação com PLC via modbus
- Código básico para estabeler a comunicação via Modbus com um PLC para ler e escrever em variáveis utilizando Python.
+- Código básico em Python para estabeler a comunicação, ler e escrever em variáveis de um PLC via Modbus.
